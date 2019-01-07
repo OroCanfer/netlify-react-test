@@ -1,0 +1,4 @@
+[build]
+base = "basicapp/"
+publish = "basicapp/build/"
+command = "npm run build"
